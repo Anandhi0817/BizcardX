@@ -4,5 +4,5 @@
 
 # Streamlit run in local tunnel
 %%writefile Bizcard_1.py - To create a .py file
-!wget -q -O - ipv4.icanhazip.com - To get a local tunel code 
+!wget -q -O - ipv4.icanhazip.com - To get a local tunnel code 
 !streamlit run Bizcard_1.py & npx localtunnel --port 8501 - To run a streamlit in local tunnel
