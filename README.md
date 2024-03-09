@@ -4,11 +4,11 @@ BizCardX is a Python-based application designed to simplify the process of extra
 
 Technologies Used: OCR (Optical Character Recognition) , Streamlit GUI , SQL (Structured Query Language) or Sqlite3 , Data Extraction Techniques
 
-FEATURES Integrate support for recognizing and extracting text from business cards in multiple languages, catering to a diverse user base.
+Features: Integrate support for recognizing and extracting text from business cards in multiple languages, catering to a diverse user base.
          Advanced Data Validation - Implement advanced data validation techniques to ensure the accuracy and reliability of extracted information, reducing errors and improving overall 
                                     data quality.
          Business Card Template Recognition - Develop functionality to recognize common business card templates and automatically adjust OCR processing parameters for optimal extraction 
-                                              results. Allow users to define and customize additional data fields for extraction based on their specific business needs or industry requirements.
+                                              results. Allow users to define and customize additional data fields for extraction based on their specific business needs or industry                                                        requirements.
 
 
 
